@@ -7,3 +7,4 @@
 - ls list contents of a directory
 - pwd print current working directory
 - mkdir make new directory
+- cp copy file
