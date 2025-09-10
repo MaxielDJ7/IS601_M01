@@ -6,3 +6,4 @@
 - mv move files/directories and rename files/directories
 - ls list contents of a directory
 - pwd print current working directory
+- mkdir make new directory
