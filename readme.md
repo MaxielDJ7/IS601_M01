@@ -16,6 +16,7 @@
 
 
 - git status | current state our git working directory
+- git remote add <name> <url> | create a new connection to remote repo
 - git checkout -b <name_of_new_branch> | create and move to local branch
 - git commit -am 'message here' | stages files and commits changes
 - git push <remote> <branch> | pushes changes from branch to remote
