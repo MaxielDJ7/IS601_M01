@@ -14,7 +14,8 @@
 ## GIT
 
 - git checkout -b <name_of_new_branch> | create and move to local branch
-- git commit -am 'message me' | stages files and commits changes
+- git commit -am 'message here' | stages files and commits changes
+- git push <remote> <branch> | pushes changes from branch to remote
 
 
 
