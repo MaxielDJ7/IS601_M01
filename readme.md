@@ -1,6 +1,7 @@
-Linux and GIT Commands Cheat Sheet
+# Linux and GIT Commands Cheat Sheet
 
-Linux:
+## Linux
 
-cd: change to another directory
-mv: move files/directories and rename files/directories
+- cd change to another directory
+- mv move files/directories and rename files/directories
+- ls list contents of a directory
