@@ -9,7 +9,12 @@
 - mkdir make new directory
 - cp copy file
 - rm remove file
+- vi <file_name> | open file in text editor vi
 
 ## GIT
 
 - git checkout -b <name_of_new_branch> | create and move to local branch
+
+
+
+
