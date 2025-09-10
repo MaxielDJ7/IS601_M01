@@ -8,3 +8,4 @@
 - pwd print current working directory
 - mkdir make new directory
 - cp copy file
+- rm remove file
